@@ -4,3 +4,4 @@ numpy==2.2.3
 streamlit==1.42.2
 
 //its not working previously. after i change the version.now its able to working.
+//i have to get actual technologies and versions. thease are not correct
